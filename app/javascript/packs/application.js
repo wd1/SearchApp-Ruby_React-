@@ -12,5 +12,4 @@ import Search from '../components/Search';
 import SearchResultList from '../components/SearchResultList';
 ReactOnRails.register({
   Search,
-  SearchResultList
 });
